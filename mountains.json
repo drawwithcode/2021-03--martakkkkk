@@ -1,0 +1,30 @@
+{
+  "number": 5,
+  "mountains": [
+    {
+      "name": "EVEREST",
+      "height": 8848,
+      "location": "Asia"
+    },
+    {
+      "name": "ACONCAGUA",
+      "height": 6962,
+      "location": "America"
+    },
+    {
+      "name": "KILIMANGIARO",
+      "height": 5895,
+      "location": "Africa"
+    },
+    {
+      "name": "MONTE BIANCO",
+      "height": 4810,
+      "location": "Europe"
+    },
+    {
+      "name": "K2",
+      "height": 8611,
+      "location": "Asia"
+    }
+  ]
+}
